@@ -1,0 +1,91 @@
+Fruit: “What’s this?” / “What’s that?”
+
+1. What’s this? — It’s an apple.
+这是什么？——是一个苹果。
+
+2. What’s that? — It’s a banana.
+那是什么？——是一根香蕉。
+
+3. What’s this? — It’s an orange.
+这是什么？——是一个橙子。
+
+4. What’s that? — It’s a pear.
+那是什么？——是一个梨。
+
+5. What’s this? — It’s a peach.
+这是什么？——是一个桃子。
+
+6. What’s that? — It’s a plum.
+那是什么？——是一颗李子。
+
+7. What’s this? — It’s a grape.
+这是什么？——是一颗葡萄。
+
+8. What’s that? — It’s a strawberry.
+那是什么？——是一颗草莓。
+
+9. What’s this? — It’s a blueberry.
+这是什么？——是一颗蓝莓。
+
+10. What’s that? — It’s a raspberry.
+那是什么？——是一颗覆盆子。
+
+11. What’s this? — It’s a blackberry.
+这是什么？——是一颗黑莓。
+
+12. What’s that? — It’s a cherry.
+那是什么？——是一颗樱桃。
+
+13. What’s this? — It’s a watermelon.
+这是什么？——是一个西瓜。
+
+14. What’s that? — It’s a melon.
+那是什么？——是一个甜瓜。
+
+15. What’s this? — It’s a pineapple.
+这是什么？——是一个菠萝。
+
+16. What’s that? — It’s a mango.
+那是什么？——是一个芒果。
+
+17. What’s this? — It’s a kiwi.
+这是什么？——是一个猕猴桃。
+
+18. What’s that? — It’s a lemon.
+那是什么？——是一个柠檬。
+
+19. What’s this? — It’s a lime.
+这是什么？——是一个青柠。
+
+20. What’s that? — It’s a grapefruit.
+那是什么？——是一个葡萄柚。
+
+21. What’s this? — It’s a coconut.
+这是什么？——是一个椰子。
+
+22. What’s that? — It’s an avocado.
+那是什么？——是一个牛油果。
+
+23. What’s this? — It’s a papaya.
+这是什么？——是一个木瓜。
+
+24. What’s that? — It’s a fig.
+那是什么？——是一个无花果。
+
+25. What’s this? — It’s a pomegranate.
+这是什么？——是一个石榴。
+
+26. What’s that? — It’s a tangerine.
+那是什么？——是一个橘子。
+
+27. What’s this? — It’s a cantaloupe.
+这是什么？——是一个哈密瓜。
+
+28. What’s that? — It’s a dragon fruit.
+那是什么？——是一个火龙果。
+
+29. What’s this? — It’s a jackfruit.
+这是什么？——是一个菠萝蜜。
+
+30. What’s that? — It’s a cranberry.
+那是什么？——是一颗蔓越莓。
